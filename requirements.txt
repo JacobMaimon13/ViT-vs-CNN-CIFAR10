@@ -1,0 +1,10 @@
+torch
+torchvision
+pytorch-lightning
+wandb
+matplotlib
+seaborn
+scikit-learn
+grad-cam
+opencv-python
+numpy
